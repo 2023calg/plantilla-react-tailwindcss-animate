@@ -6,7 +6,7 @@ Plantilla base creada con [Create React App](https://github.com/facebook/create-
 
 Descargue la plantilla en su directorio local con git.
 
-### `git clone https://github.com/2023calg/plantilla-react-tailwindcss-animate/tree/main`
+### `git clone https://github.com/2023calg/plantilla-react-tailwindcss-animate`
 
 Luego, ejecute `npm start` y comience a editar a su gusto y conveniencia.
 
